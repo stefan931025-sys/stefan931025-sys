@@ -1,13 +1,16 @@
 import os
 
-readme_content = r"""# Tshepo Stefan Kotelo | Quantitative & Discretionary Macro Portfolio
 
-> **Buy-Side Trading & Financial Analytics** | CFA Level 1 Candidate • FMVA Candidate  
-> *Specializing in quantitative volatility forecasting, automated macro execution engines, and fundamental equity research.*
+def generate_readme():
+    # Read template file directly to eliminate Python string parsing issues
+    with open("README_template.md", "r", encoding="utf-8") as template_file:
+        content = template_file.read()
 
----
+    with open("README.md", "w", encoding="utf-8") as readme_file:
+        readme_file.write(content)
 
-## Executive Summary & Technical Architecture
+    print("[✓] README.md updated successfully from template!")
 
-This portfolio showcases an end-to-end suite of quantitative trading systems, discretionary macro execution tools, and institutional equity research. The work bridges **data science (Python, GARCH, LSTM, PyTorch)** with **discretionary macro trading** and **buy-side financial modeling**.
 
+if __name__ == "__main__":
+    generate_readme()
