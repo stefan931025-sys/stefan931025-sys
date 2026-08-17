@@ -1,9 +1,6 @@
 import os
 
-
-def generate_readme():
-    # Multi-line Markdown template stored cleanly without quote escaping issues
-    content = """# Tshepo Stefan Kotelo | Quantitative & Discretionary Macro Portfolio
+readme_content = r"""# Tshepo Stefan Kotelo | Quantitative & Discretionary Macro Portfolio
 
 > **Buy-Side Trading & Financial Analytics** | CFA Level 1 Candidate • FMVA Candidate  
 > *Specializing in quantitative volatility forecasting, automated macro execution engines, and fundamental equity research.*
