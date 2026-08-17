@@ -1,3 +1,7 @@
+![Sync Status](https://github.com/stefan931025-sys/stefan931025-sys/actions/workflows/auto_update_portfolio.yml/badge.svg)
+![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # Tshepo Stefan Kotelo | Quantitative & Discretionary Macro Portfolio
 
 > **Buy-Side Trading & Financial Analytics** | CFA Level 1 Candidate • FMVA Candidate  
