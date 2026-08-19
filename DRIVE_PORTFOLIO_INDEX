@@ -1,14 +1,14 @@
-# Portfolio Master Index & Institutional Credentials
+# Master Portfolio Asset Index & Institutional Credentials
 
-This index serves as the centralized directory for institutional project assets, underlying data architectures, financial research decks, and verified professional credentials.
+This index serves as the comprehensive directory for all quantitative models, financial research decks, underlying code repositories, and verified institutional credentials.
 
 ---
 
-## 🏛️ Verified Certifications & Virtual Simulations
+## 🏛️ 1. Verified Institutional Certifications & Virtual Simulations
 
-The following credentials represent completed practical simulations covering buy-side trading, quantitative analysis, credit risk, and investment banking workflows across tier-1 global institutions:
+A complete directory of completed practical simulations covering buy-side trading, quantitative analysis, credit risk, and investment banking workflows across tier-1 global institutions:
 
-| Institution | Simulation Program Title | Completion Date | Verification Link |
+| Institution | Simulation Program Title | Completion Date | Direct Verification Link |
 | :--- | :--- | :--- | :--- |
 | **Goldman Sachs** | Operations Job Simulation | May 27, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_8bczaTtbFd4pFZoj3_1748305022286_completion_certificate.pdf?raw=1) |
 | **Goldman Sachs** | Financial & Quantitative Analysis Simulation | October 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/ZsgybEFo5RxyHxwXL/TwxTEuyPugfgMGm8H_ZsgybEFo5RxyHxwXL_8bczaTtbFd4pFZoj3_1759339213792_completion_certificate.pdf?raw=1) |
@@ -21,7 +21,33 @@ The following credentials represent completed practical simulations covering buy
 
 ---
 
-## 📈 Quantitative & Macro Strategy Assets
+## 📈 2. Quantitative & Trading System Assets
 
-* **FX Implied Volatility Engines:** Hybrid GARCH(1,1) + LSTM neural network pipelines for short-term implied volatility forecasting and regime-switch detection.
-* **Discretionary Macro Research Decks:** Equity pitches, DCF/LBO financial models, and macroeconomic macro drivers.
+### 📊 Hybrid GARCH(1,1) + LSTM FX Implied Volatility Model
+* **Asset Class / Field:** Foreign Exchange / Volatility Modeling & Forecasting
+* **Core Objective:** Capture ARCH time-varying volatility dynamics alongside non-linear deep learning feature extraction for short-term implied volatility forecasting.
+* **Key Deliverables:**
+  * `GARCH_LSTM_Volatility_Forecaster.py` – Primary processing pipeline and model training scripts.
+  * `Monte_Carlo_Volatility_Simulations.ipynb` – Backtesting notebook and stress-testing framework.
+  * Model architecture specs and residual volatility analysis output files.
+
+---
+
+## 📊 3. Discretionary Macro & Fundamental Equity Pitch Assets
+
+### 🎯 Nasdaq Stock Pitch & Investment Committee Presentation
+* **Asset Class / Field:** Equity Capital Markets / Buy-Side Hedge Fund Thesis
+* **Core Objective:** Conclusion-oriented investment pitch deck evaluating capital structure, growth drivers, and quantitative valuation sensitivities.
+* **Key Deliverables:**
+  * **Presentation Slide Deck:** Comprehensive pitch deck formatted for Hedge Fund Investment Committees.
+  * **Financial Model Workbooks:** Fully dynamic 3-statement model incorporating DCF, LBO, and scenario analysis (tax assumptions calibrated to exact corporate rates).
+  * **Executive Summary Sheet:** High-level investment memorandum detailing trade catalysts and downside protection mechanisms.
+
+---
+
+## ⚙️ 4. Data Processing Pipelines & Automation Scripts
+
+* **`standardize_all_assets.py`**
+  * Automated data transformation utility ensuring consistent schema alignment across asset classes, simulation credentials, and research files.
+* **`update_portfolio.py`**
+  * Portfolio sync script designed to pull latest repository metrics, re-index new drive links, and maintain version history.
