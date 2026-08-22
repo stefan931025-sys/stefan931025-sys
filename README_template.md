@@ -44,4 +44,4 @@ This portfolio showcases an end-to-end suite of quantitative trading systems, di
 
 For direct access to model codebases, research decks, and financial model workbooks, see the full master directory:
 
-👉 **[View Full Master Portfolio Index](https://github.com/stefan931025-sys/stefan931025-sys/blob/main/DRIVE_PORTFOLIO_INDEX.md)**
+👉 **[View Full Master Portfolio Index](DRIVE_PORTFOLIO_INDEX.md)**
