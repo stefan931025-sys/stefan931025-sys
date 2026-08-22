@@ -1,7 +1,3 @@
-![Sync Status](https://github.com/stefan931025-sys/stefan931025-sys/actions/workflows/auto_update_portfolio.yml/badge.svg)
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 # Tshepo Stefan Kotelo | Quantitative & Discretionary Macro Portfolio
 
 [![Autonomous Portfolio Sync](https://github.com/stefan931025-sys/stefan931025-sys/actions/workflows/auto_update_portfolio.yml/badge.svg)](https://github.com/stefan931025-sys/stefan931025-sys/actions)
@@ -48,4 +44,4 @@ This portfolio showcases an end-to-end suite of quantitative trading systems, di
 
 For direct access to model codebases, research decks, and financial model workbooks, see the full master directory:
 
-👉 **[View Full Master Portfolio Index (DRIVE_PORTFOLIO_INDEX.md)](https://raw.githubusercontent.com/stefan931025-sys/stefan931025-sys/main/DRIVE_PORTFOLIO_INDEX.md)**
+👉 **[View Full Master Portfolio Index (DRIVE_PORTFOLIO_INDEX.md)](https://github.com/stefan931025-sys/stefan931025-sys/blob/main/DRIVE_PORTFOLIO_INDEX.md)**
