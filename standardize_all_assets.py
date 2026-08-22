@@ -53,25 +53,43 @@ This index serves as the comprehensive directory for all quantitative models, fi
 
 ---
 
-## 🌟 1. Verified Institutional Certifications & Research Assessments
+## 🎓 1. Academic Degrees & Professional Designations
 
-A complete directory of completed practical simulations and research assessments across buy-side trading, quantitative analysis, credit risk, and investment banking workflows.
+| Institution | Degree / Designation Title | Specialization / Focus | Status |
+| :--- | :--- | :--- | :--- |
+| **University of South Africa (UNISA)** | Bachelor of Business Administration (BBA) | Business Management (Finance & Economics concentration) | Graduated |
+| **Bloomsbury Institute London** *(formerly LSBM)* | Higher National Diploma (HND) in Business | General Business & Finance | Completed |
+| **CFA Institute** | Chartered Financial Analyst (CFA) | Level 1 Candidate | In Progress |
+| **Corporate Finance Institute (CFI)** | Financial Modeling & Valuation Analyst (FMVA) | Financial Modeling & Valuation | Candidate |
+
+---
+
+## 🌟 2. Verified Institutional Certifications & Executive Leadership
 
 | Institution | Program / Credential Title | Completion Date | Direct Verification Link |
 | :--- | :--- | :--- | :--- |
+| **McKinsey & Company** | McKinsey Forward Program | July 2025 | [View Credly Badge](https://www.credly.com) |
 | **Dominion Financial Review** | Dominion Programme (Finance Research Assessment) | July 2025 | [View Certificate](./Screenshot_2026-08-22-05-27-27-04_cbf47468f7ecfbd8ebcc46bf9cc626da.jpg) |
+
+---
+
+## 💼 3. Institutional Job Simulations & Accredited Credentials
+
+| Institution | Simulation / Track | Completion Date | Direct Verification Link |
+| :--- | :--- | :--- | :--- |
 | **Goldman Sachs** | Operations Job Simulation | May 27, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/SjTtemL583QAYPXXD/YD2kY95RQXQtXxFTS_SjTtemL583QAYPXXD_8bczaTtbFd4pFZoj3_1748305022286_completion_certificate.pdf?raw=1) |
 | **Goldman Sachs** | Financial & Quantitative Analysis Simulation | October 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/ZsgybEFo5XcyIbxXL/TwxTIuyPugFgMGnBH_ZsgybEFo5XcyIbxXL_8bczaTtbFd4pFZoj3_175939213792_completion_certificate.pdf?raw=1) |
+| **Goldman Sachs** | Risk Management Track | January 2026 | [View Certificate](https://www.theforage.com) |
 | **J.P. Morgan** | Investment Banking Job Simulation | May 27, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/wAge9cjxNTXD2acrv_MBA4MnZTNFEoJZGnk_8bczaTtbFd4pFZoj3_1748305617048_completion_certificate.pdf?raw=1) |
 | **Bank of America** | Investment Banking Job Simulation | May 29, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/fMCqrt8qR4G85Puue/HL8MJQEST3MeTRWQR_fMCqrt8qR4G85Puue_8bczaTtbFd4pFZoj3_1748520481027_completion_certificate.pdf?raw=1) |
 | **Citi** | Investment Banking Job Simulation | June 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwQw/amBSJDTDDfCYtKq9Z_8eNRcRqBZM9HLvwQw_8bczaTtbFd4pFZoj3_1748740366365_completion_certificate.pdf?raw=1) |
-| **Fidelity International** | Investment Management Job Simulation | June 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/jNDZPYPGpsMrk2vJq/hgCwHF8riBbyFjPf_jNDZPYPGpsMrk2vJq_8bczaTtbFd4pFZoj3_1748802127169_completion_certificate.pdf?raw=1) |
 | **Citi** | Markets Sales & Trading Job Simulation | June 2, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwQw/gJjSgG4PLtchbxKgj_8eNRcRqBZM9HLvwQw_8bczaTtbFd4pFZoj3_1748826074312_completion_certificate.pdf?raw=1) |
+| **Fidelity International** | Investment Management Job Simulation | June 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/jNDZPYPGpsMrk2vJq/hgCwHF8riBbyFjPf_jNDZPYPGpsMrk2vJq_8bczaTtbFd4pFZoj3_1748802127169_completion_certificate.pdf?raw=1) |
 | **Standard Chartered** | Credit Analyst Job Simulation | October 1, 2025 | [View Certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLBSoCryjcH8o_MBA4MnZTNFEoJZGnk_8bczaTtbFd4pFZoj3_1759351951137_completion_certificate.pdf?raw=1) |
 
 ---
 
-## 📈 2. Quantitative & Trading System Assets
+## 📈 4. Quantitative & Trading System Assets
 
 * **GARCH(1,1) + LSTM FX Implied Volatility Model**
   * **Asset Class / Field:** Foreign Exchange / Volatility Modeling & Forecasting
@@ -83,7 +101,7 @@ A complete directory of completed practical simulations and research assessments
 
 ---
 
-## 📊 3. Discretionary Macro & Fundamental Equity Pitch Assets
+## 📊 5. Discretionary Macro & Fundamental Equity Pitch Assets
 
 * **Nasdaq Stock Pitch & Investment Committee Presentation**
   * **Asset Class / Field:** Equity Capital Markets / Buy-Side Hedge Fund Thesis
@@ -95,7 +113,7 @@ A complete directory of completed practical simulations and research assessments
 
 ---
 
-## ⚙️ 4. Data Processing Pipelines & Automation Scripts
+## ⚙️ 6. Data Processing Pipelines & Automation Scripts
 
 * **`standardize_all_assets.py`**
   * Automated data transformation utility ensuring consistent schema alignment across asset classes, simulation credentials, and research files.
